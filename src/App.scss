@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto' , sans-serif ;
+}
+
+.container{
+  width: 90%;
+  margin: 0 auto;
+  padding: 0 ;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calculatorDisplay{
+  width: 200px;
+  display: flex;
+
+}
+
+.leftSideOperators{
+
+}
+
+.greyColor{
+  width: 30px ;
+  border-radius: 50%;
+  height: 30px;
+  border: none;
+}
+
+.blackColor{
+  width: 30px ;
+  border-radius: 50%;
+  height: 30px;
+  border: none;
+}
+
+.zero{
+  width: 50px;
+  border-radius: 25px;
+}
